@@ -41,7 +41,7 @@ I am Bioinformatician, Software developer and AI enjoyer
 
 ### :star: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSigorskih)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSigorskih&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AndrewSigorskih/AndrewSigorskih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
