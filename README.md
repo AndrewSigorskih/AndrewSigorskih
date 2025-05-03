@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="https://www.linkedin.com/in/andrey-sigorskikh-693b1b171/">
+  <a href="https://www.linkedin.com/in/andrey-sigorskikh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/andrey.sigorskikh">
@@ -17,7 +17,7 @@ I am Bioinformatician, Software developer and AI enjoyer
 
 - In my free time, I :weight_lifting_man: go to gym
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-sigorskikh-693b1b171/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-sigorskikh/)
 
 ---
 
